@@ -8,7 +8,7 @@ ReDraw is a Python application that takes any image, processes it to detect its 
 ## ✨ Features
 - **Image Processing** – Use a built-in UI to adjust brightness, threshold, and other settings to get the perfect outline of your image.  
 - **Intelligent Contour Detection** – Powered by OpenCV, finds the key outlines of your image while ignoring unnecessary noise.  
-- **Fill Mode** – Choose between simple outlines or filled shapes for a more solid drawing.  
+- **Fill Mode** – Choose between simple outlines or filled shapes for a more solid drawing. (IN DEV) 
 - **Search Functionality** – Find simple drawings and line art directly from the web.  
 - **Local File Support** – Load your own images from your computer.  
 - **User-Friendly Interface** – A clean, modern UI makes the process intuitive and fun.  

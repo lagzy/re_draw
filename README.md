@@ -16,7 +16,7 @@ ReDraw is a Python application that takes any image, processes it to detect its 
 - **User-Friendly Interface** – A clean, modern UI makes the process intuitive and fun.  
 - **Save and Load** – Save your favorite images and their settings for quick reuse later.
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/ee91bd44-44d6-4cc5-99a1-958d4c7a4add" />
+  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/ee91bd44-44d6-4cc5-99a1-958d4c7a4add" />
 
 
 ---

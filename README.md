@@ -25,7 +25,7 @@ Download the **ReDraw.zip** file from the following link:
 ### 2. Extract the Files
 Unzip the folder to a location on your computer (e.g., Desktop or Documents).  
 Inside, you will find:
-- `ReDraw.exe` (the executable)
+- `Re_Draw.exe` (the executable)
 - Other required files for the program to run.
 
 ---
@@ -33,7 +33,7 @@ Inside, you will find:
 ## 🚀 How to Use
 
 ### 1. Run the Application
-Double-click **ReDraw.exe** to start the program.  
+Double-click **Re_Draw.exe** to start the program.  
 A new window will open.
 
 ### 2. Load or Find an Image

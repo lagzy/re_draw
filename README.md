@@ -1,4 +1,6 @@
-# 🖌️ ReDraw
+# 🖌️ ReDraw 
+<img width="100" height="100" alt="BootLogo" src="https://github.com/user-attachments/assets/a18cd75e-0523-4481-9bb3-35094dab21b6" />  
+
 **Your image, drawn for you**  
 
 ReDraw is a Python application that takes any image, processes it to detect its contours, and then uses your mouse to automatically "re-draw" the image for you in any drawing application on your screen. It's a fun and easy way to turn a complex photo into a simple, beautiful sketch.
@@ -12,7 +14,10 @@ ReDraw is a Python application that takes any image, processes it to detect its 
 - **Search Functionality** – Find simple drawings and line art directly from the web.  
 - **Local File Support** – Load your own images from your computer.  
 - **User-Friendly Interface** – A clean, modern UI makes the process intuitive and fun.  
-- **Save and Load** – Save your favorite images and their settings for quick reuse later.  
+- **Save and Load** – Save your favorite images and their settings for quick reuse later.
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/ee91bd44-44d6-4cc5-99a1-958d4c7a4add" />
+
 
 ---
 

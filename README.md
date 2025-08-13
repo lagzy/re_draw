@@ -20,7 +20,7 @@ ReDraw is a Python application that takes any image, processes it to detect its 
 
 ### 1. Download the Project
 Download the **ReDraw.zip** file from the following link:  
-➡️ **[Install it Here]([[insert-google-drive-url-here])**
+➡️ **[Install it Here](https://drive.google.com/drive/folders/1MxACh0ZIvjDkn9YNC6QR-2ih2ybDodEE)**
 
 ### 2. Extract the Files
 Unzip the folder to a location on your computer (e.g., Desktop or Documents).  
